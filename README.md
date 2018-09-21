@@ -5,4 +5,4 @@ Interfaced with switches, slide potentiometer, LCD screen, used DAC for sound, u
 
 Code is a mess, but it works. And yes we never renamed the SpaceInvaders file.
 
-High scores couldn't be retained unfortunately due to volatile memory, but it was fun to implement anyway and we only needed it to last for one session anyway.
+High scores couldn't be retained unfortunately due to volatile memory, but it was fun to implement and we only needed it to last for one session anyway.
